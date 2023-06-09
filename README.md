@@ -1,3 +1,2 @@
 # MyCampus
-My Final Year Project 
-hi
+My Final Year Project
